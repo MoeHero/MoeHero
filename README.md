@@ -1,33 +1,47 @@
 <div align="center">
-  <h1>Hi 👋, I'm MoeHero 👨‍💻</h1>
 
-  [![dynamic typing effect](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=540&lines=%22Hello%2C%20World%22;console.log(%22Hello%2C%20World%22);Console.WriteLine(%22Hello%2C%20World%22);echo%20%22Hello%2C%20World%22&center=true&size=27)](https://github.com/MoeHero)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&center=true&vCenter=true&random=false&width=580&height=45&separator=%3C&lines=%22Hi+%F0%9F%91%8B%2C+I'm+MoeHero%22%3Cconsole.log(%22Hi+%F0%9F%91%8B%2C+I'm+MoeHero%22);%3CConsole.WriteLine(%22Hi+%F0%9F%91%8B%2C+I'm+MoeHero%22);%3Cecho+%22Hi+%F0%9F%91%8B%2C+I'm+MoeHero%22;)
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-  </picture>
+  ![GitHub profile visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhits.dwyl.com%2FMoeHero%2FMoeHero.json&query=%24.message&logo=github&label=visitors&labelColor=010409&color=555)
+  ![GitHub User's stars](https://img.shields.io/github/stars/MoeHero?style=flat&logo=github&label=stars&labelColor=010409&color=555)
+  [![Bilibili followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D5707552&query=%24.data.totalSubs&style=flat&logo=bilibili&logoColor=FFF&label=followers&labelColor=FB7299&color=555)](https://space.bilibili.com/5707552)
+  [![wakatime](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime.com%2Fapi%2Fv1%2Fusers%2FMoeHero%2Fstats&query=%24.data.human_readable_total&style=flat&logo=wakatime&logoColor=FFF&label=wakatime&labelColor=000&color=555)](https://wakatime.com/@MoeHero)
+</div>
 
+### 🤔 About me
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoeHero/MoeHero/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoeHero/MoeHero/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/MoeHero/MoeHero/output/github-contribution-grid-snake.svg" />
   </picture>
-
 </div>
 
-## About Me
-<div>
-    <img height="165" align="left" src="https://github-readme-stats-delta-roan.vercel.app/api?username=MoeHero&show_icons=true&theme=github_dark" />
-    <img src="https://github-readme-stats-delta-roan.vercel.app/api/top-langs/?username=MoeHero&layout=compact&langs_count=6&theme=github_dark" />
+### 📈 Statistics
+<div align="center">
+
+  ![MoeHero's GitHub Stats](https://github-readme-stats-delta-roan.vercel.app/api?username=MoeHero&show_icons=true&hide_title=true&theme=github_dark)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=MoeHero&theme=github-dark-blue&card_width=466)
 </div>
 
-## Github Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=MoeHero&theme=github_dark&row=1&column=7&no-frame=true&no-bg=true"/>
+### 📈 Top Languages
+<div align="center">
 
-## WakaTime
-[![MoeHero's WakaTime stats](https://github-readme-stats-delta-roan.vercel.app/api/wakatime?username=MoeHero&langs_count=6&theme=github_dark)](https://github.com/MoeHero)
+![Top Languages](https://github-readme-stats-delta-roan.vercel.app/api/top-langs/?username=MoeHero&layout=compact&langs_count=6&hide_title=true&theme=github_dark)
+</div>
+
+### 🏆 GitHub Profile Trophy
+<div align="center">
+
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=MoeHero&theme=onestar&row=2&column=4&margin-w=8&margin-h=8)
+</div>
+
+### ⏰ WakaTime
+<div align="center">
+
+[![MoeHero's WakaTime stats](https://github-readme-stats-delta-roan.vercel.app/api/wakatime?username=MoeHero&langs_count=6&theme=github_dark)](https://wakatime.com/@MoeHero)
+</div>
 
 ## Skills
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
