@@ -2,9 +2,9 @@
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1500&center=true&vCenter=true&random=false&width=580&height=45&separator=%3C&lines=%22Hi+%F0%9F%91%8B%2C+I'm+MoeHero%22%3Cconsole.log(%22Hi+%F0%9F%91%8B%2C+I'm+MoeHero%22);%3CConsole.WriteLine(%22Hi+%F0%9F%91%8B%2C+I'm+MoeHero%22);%3Cecho+%22Hi+%F0%9F%91%8B%2C+I'm+MoeHero%22;)
 
-  ![GitHub profile visitors](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhits.dwyl.com%2FMoeHero%2FMoeHero.json&query=%24.message&logo=github&label=visitors&labelColor=010409&color=555)
+  ![GitHub profile visitors](https://vbr.nathanchung.dev/badge?page_id=MoeHero_GitHub&logo=github)
   ![GitHub User's stars](https://img.shields.io/github/stars/MoeHero?style=flat&logo=github&label=stars&labelColor=010409&color=555)
-  [![Bilibili followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D5707552&query=%24.data.totalSubs&style=flat&logo=bilibili&logoColor=FFF&label=followers&labelColor=FB7299&color=555)](https://space.bilibili.com/5707552)
+  [![Bilibili followers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D5707552&query=data.follower&style=flat&logo=bilibili&logoColor=FFF&label=followers&labelColor=FB7299&color=555)](https://space.bilibili.com/5707552)
   [![wakatime](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwakatime.com%2Fapi%2Fv1%2Fusers%2FMoeHero%2Fstats&query=%24.data.human_readable_total&style=flat&logo=wakatime&logoColor=FFF&label=wakatime&labelColor=000&color=555)](https://wakatime.com/@MoeHero)
 </div>
 
@@ -34,7 +34,7 @@
 ### 🏆 GitHub Profile Trophy
 <div align="center">
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=MoeHero&theme=onestar&row=2&column=4&margin-w=8&margin-h=8)
+![GitHub Profile Trophy](https://github-profile-trophy-roan.vercel.app/?username=MoeHero&theme=onestar&row=2&column=4&margin-w=8&margin-h=8)
 </div>
 
 ### ⏰ WakaTime
@@ -44,22 +44,28 @@
 </div>
 
 ## Skills
-![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![MySql Badge](https://img.shields.io/badge/MySql-092E20?logo=mysql&logoColor=fff&style=flat)
-![Redis Badge](https://img.shields.io/badge/Redis-092E20?logo=redis&logoColor=fff&style=flat)
-![C Sharp Badge](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
-![jQuery Badge](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat)
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
-![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
-![PhoStorm Badge](https://img.shields.io/badge/PhoStorm-0078D6?logo=phpstorm&logoColor=fff&style=flat)
-![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
-![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
-![Visual Studio Badge](https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat)
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![UnoCSS](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
